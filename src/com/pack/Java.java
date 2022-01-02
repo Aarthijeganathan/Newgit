@@ -1,10 +1,14 @@
 package com.pack;
 
 public class Java {
+	
+	public void method3() {
+		System.out.println("sri's code");
+
+	}
 	public static void main(String[] args) {
-		String a="aarthi";
-		String b="selenium";
-		System.out.println(a+" "+b);
+		Java j=new Java();
+		j.method3();
 	}
 
 }

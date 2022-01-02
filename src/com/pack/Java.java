@@ -5,6 +5,8 @@ public class Java {
 		String a="aarthi";
 		String b="selenium";
 		System.out.println(a+" "+b);
+		System.out.println("@@@@@@######");
+		System.out.println("fgtyhr");
 	}
 
 }

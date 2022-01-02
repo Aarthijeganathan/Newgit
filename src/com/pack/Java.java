@@ -2,13 +2,13 @@ package com.pack;
 
 public class Java {
 	
-	public void method3() {
-		System.out.println("sri's code");
+	public void method4() {
+		System.out.println("sri's code method");
 
 	}
 	public static void main(String[] args) {
 		Java j=new Java();
-		j.method3();
+		j.method4();
 	}
 
 }
